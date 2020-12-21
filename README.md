@@ -15,3 +15,7 @@ project02, 03 - 좌표, 윈도우 스크롤링 apis
 element.getboundingclientrect();
 scollby, scollto, scollinto
  
+project04 - 좌표 007
+
+설명 : 브라우저 창에서 마우스를 움직이면 마우스를 따라다니는 좌표가 출력
+
